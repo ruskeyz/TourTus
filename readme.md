@@ -1,3 +1,4 @@
-# Natours Application
+# GemsOfRussia Application
 
-Built using modern technologies: node.js, express, mongoDB, mongoose and friends 😁
+Built using: node.js, express, mongoDB, mongoose and coffee 😁
+😁
