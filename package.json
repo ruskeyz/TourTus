@@ -1,7 +1,7 @@
 {
-  "name": "natours",
+  "name": "GemsOfRussia",
   "version": "1.0.0",
-  "description": "Learning node, express and mongoDB",
+  "description": "Booking platform",
   "main": "app.js",
   "scripts": {
     "start": "node server.js",
@@ -11,7 +11,7 @@
     "watch:js": "parcel watch ./public/js/index.js --out-dir ./public/js --out-file bundle.js",
     "build:js": "parcel build ./public/js/index.js --out-dir ./public/js --out-file bundle.js"
   },
-  "author": "Jonas Schmedtmann",
+  "author": "Ilya Lutay",
   "license": "ISC",
   "dependencies": {
     "@babel/polyfill": "^7.4.4",
