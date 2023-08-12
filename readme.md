@@ -1,4 +1,4 @@
-# GemsOfRussia Application
+# TourTus Application
 
 Tour booking platform built on Node.js with Express to handle booking, authentication, integration of payment system, SendGrid email automation 
 
